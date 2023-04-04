@@ -19,32 +19,10 @@ justify-content: space-between">
 </div>
 
 #
+
+<img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=victormarques98&show_icons=true&theme=radical"/>
+
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormarques98&layout=compact"/>
+
 ### ⛏️ Languages and tools
-  <br />
-  <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="left" width="40px" style="padding-right: 10px" src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png">
-  <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="left" width="40px" style="padding-right: 10px" src="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-cypress/contentbuilder/logo_dark_backgrounds%402x_nSUwotW.png">
-  <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="left" width="40px" style="padding-right: 10px" src="https://styled-components.com/atom.png">
-  <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
-  <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">
-  <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
 
-
-<!--
-**VictorMarques98/VictorMarques98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
