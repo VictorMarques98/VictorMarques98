@@ -29,7 +29,7 @@ Welcome to my profile, I'm currently a Front-End developer and I aim to be one o
   align="left" 
   height="150px"
   src="https://github-readme-stats.vercel.app/api?username=victormarques98&show_icons=true&theme=radical"
-  style="margin-right: 20px"
+  style="margin-right: 20px; margin-bottom: 20px"
  />
 
 <img 
