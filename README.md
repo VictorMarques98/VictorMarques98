@@ -13,10 +13,7 @@
 
 Welcome to my profile, I'm currently a Front-End developer and I aim to be one of the best React  developers in the world. I've worked with many kinds of projects, from simple landing page projects tocomplex applications like a crypto trading platform and a entire desing system library. Currently myfocus is being an expert in React, Nextjs and Typescript but I have knowledge in React Native too. Youcan see all my projects in my "portfolio" or see below a summary of each one. Oh, I have great conversational English!
 
-<p 
-  align="left" 
-  style="margin: 15px 0"
->
+<p align="left">
   <a href="https://www.linkedin.com/in/victormarquessantos/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Contact%20Me-blue?style=for-the-badge&logoColor=white&logo=codespaces" alt="link to linkedin"/>
   </a>
@@ -27,9 +24,20 @@ Welcome to my profile, I'm currently a Front-End developer and I aim to be one o
 
 #
 
-<!-- <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=victormarques98&show_icons=true&theme=radical"/>
+ <img 
+  align="left" 
+  height="150px"
+  src="https://github-readme-stats.vercel.app/api?username=victormarques98&show_icons=true&theme=radical"
+  style="margin-right: 20px"
+ />
 
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormarques98&layout=compact"/>
+<img 
+  align="left" 
+  height="150px"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormarques98&layout=compact"
+ />
 
-### ⛏️ Languages and tools -->
+</br>
+
+### ⛏️ Languages and tools
 
