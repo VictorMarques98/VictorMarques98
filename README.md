@@ -57,4 +57,13 @@ Welcome to my profile, I'm currently a Front-End developer and I aim to be one o
   <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg">
   <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+  
+  </br>
+  </br>
+  
+  ### 👨‍💻 My experiences
+  
+  #### 2019 - Freelance - Client: OuterMidia Company
+  
+  
 
