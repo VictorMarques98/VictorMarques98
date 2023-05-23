@@ -25,7 +25,7 @@ Welcome to my profile, I'm currently a Front-End developer and I aim to be one o
 
 #
 
- <img 
+<!--  <img 
   align="left" 
   height="150px"
   src="https://github-readme-stats.vercel.app/api?username=victormarques98&show_icons=true&theme=radical"
@@ -36,7 +36,7 @@ Welcome to my profile, I'm currently a Front-End developer and I aim to be one o
   align="left" 
   height="150px"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormarques98&layout=compact"
- />
+ /> -->
 
 <img
   height="1px"
@@ -61,9 +61,9 @@ Welcome to my profile, I'm currently a Front-End developer and I aim to be one o
   </br>
   </br>
   
-  ### 👨‍💻 My experiences
+<!--   ### 👨‍💻 My experiences
   
-  #### 2019 - Freelance - Client: OuterMidia Company
+  #### 2019 - Freelance - Client: OuterMidia Company -->
   
   
 
