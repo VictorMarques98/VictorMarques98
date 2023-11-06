@@ -17,7 +17,7 @@ Welcome to my profile, I'm currently a Front-End developer and I aim to be one o
   <a href="https://www.linkedin.com/in/victormarquessantos/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Contact%20Me-blue?style=for-the-badge&logoColor=white&logo=codespaces" alt="link to linkedin"/>
   </a>
-  <a href="">
+  <a href="https://victormarques98.github.io/">
     <img src="https://custom-icon-badges.demolab.com/badge/-portfolio-red?style=for-the-badge&logo=trophy&logoColor=white" alt="link to portfolio"/>
   </a>
 </p>
@@ -51,7 +51,7 @@ Welcome to my profile, I'm currently a Front-End developer and I aim to be one o
   <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
   <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="left" width="40px" style="padding-right: 10px" src="https://res.cloudinary.com/startup-grind/image/upload/dpr_2.0,fl_sanitize/v1/gcs/platform-data-cypress/contentbuilder/logo_dark_backgrounds%402x_nSUwotW.png">
+  <img align="left" width="40px" style="padding-right: 10px" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
   <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="left" width="40px" style="padding-right: 10px" src="https://styled-components.com/atom.png">
   <img align="left" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
